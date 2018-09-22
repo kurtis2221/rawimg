@@ -1,0 +1,9 @@
+C:\Users\viskovicskrisztian\AppData\Local\Temporary Projects\rawimg\bin\Release\rawimg.exe
+C:\Users\viskovicskrisztian\AppData\Local\Temporary Projects\rawimg\bin\Release\rawimg.pdb
+C:\Users\viskovicskrisztian\AppData\Local\Temporary Projects\rawimg\obj\Release\ResolveAssemblyReference.cache
+C:\Users\viskovicskrisztian\AppData\Local\Temporary Projects\rawimg\obj\Release\rawimg.exe
+C:\Users\viskovicskrisztian\AppData\Local\Temporary Projects\rawimg\obj\Release\rawimg.pdb
+D:\Dokumentumok\Programming\Projects\rawimg\rawimg\bin\Release\rawimg.exe.config
+D:\Dokumentumok\Programming\Projects\rawimg\rawimg\bin\Release\rawimg.exe
+D:\Dokumentumok\Programming\Projects\rawimg\rawimg\obj\Release\ResolveAssemblyReference.cache
+D:\Dokumentumok\Programming\Projects\rawimg\rawimg\obj\Release\rawimg.exe
